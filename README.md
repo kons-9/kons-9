@@ -1,7 +1,10 @@
-## I want to eat udon...
+## I want to eat udon...  
 
-Interest region: high level synthesis
-Interest language: rust, python, c++
+About me...
+* M1 student of the university of Tokyo(IST).
+* Interest region: high level synthesis. 
+* Interest language: rust, python, c++. 
+* love: udon.
 
 <!---
 kons-9/kons-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
