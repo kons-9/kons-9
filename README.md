@@ -1,7 +1,8 @@
 ## I want to eat udon...  
 
 About me...
-* M1 student of the university of Tokyo(IST).
+* region: Japan
+* editor: neovim
 * Interest region: high level synthesis. 
 * Interest language: rust, python, c++. 
 * love: udon.
